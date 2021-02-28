@@ -1,4 +1,4 @@
-#Data JVC#
+# Data JVC #
 
 C'est un set de données relevée sur le site jeuxvideo.com à partir de tous les tests effectués.
 
@@ -10,7 +10,7 @@ Tout est dans le jupyter notebook "Getting_URL.ipynb". La liste des URL relevée
 
 Quelques analyses ont été produites avec R dans le fichier "jvcdata.R"
 
-## Reconstruire l'étude##
+## Reconstruire l'étude ##
 
 Créer un environnement virtuel à la racine avec la commande virtualenv -p python3 venv
 
